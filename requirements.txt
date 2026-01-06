@@ -6,3 +6,4 @@ joblib
 lightgbm
 matplotlib
 seaborn
+plotly
